@@ -1,3 +1,5 @@
+implementation 'androidx.glance:glance-appwidget:LATEST-VERSION'
+
 plugins {
     id "com.android.application"
     id "kotlin-android"
